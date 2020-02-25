@@ -18,6 +18,9 @@ def literal_aoh
   characters = [
       { name:  "Pat Monteseian", occupation: "Staff" },
       { name:  "Joelle van Dyne", occupation: "Radio Personality" },
+      { name:  "Pat Monteseian", occupation: "Staff" },
+      { name:  "Kate Gompert", occupation: "None" },
+      { name:  "Bruce Green", occupation: "Fan of Mildred" }
       ]
 end
 
